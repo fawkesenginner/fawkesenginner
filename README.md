@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8a/e1/04/8ae104a88d8fd8e5c4d1a9cbea4d4c96.gif" alt="Intro GIF" width="600"/>
+  <img src="https://i.pinimg.com/originals/0d/cc/71/0dcc7193d247d8a5875ecec86986c628.gif" alt="Intro GIF" width="600"/>
 </p>
 
 <h1 align="center" style="color:#5C2D91;">Geovane Morais</h1>
