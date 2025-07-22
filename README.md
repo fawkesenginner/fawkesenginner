@@ -19,7 +19,7 @@ Atualmente desenvolvendo projetos desktop com **Python + PyQt5**, explorando int
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </div>
 
@@ -44,17 +44,17 @@ Atualmente desenvolvendo projetos desktop com **Python + PyQt5**, explorando int
 ## 📚 Atualmente estudando
 
 - Estrutura de Dados & Banco de Dados  
-- POO com Python e introdução a C#  
-- Engenharia de Requisitos & UML  
+- Docker C#  
+- WPF  
 - UI/UX Design com foco em usabilidade de sistemas desktop
 
 ---
 
 ## 🎯 Objetivos
 
-- Desenvolver novos projetos em **C# com WPF ou WinForms**  
-- Aprimorar UI/UX com base em sistemas reais  
-- Lançar MVP do **BoxGestor**  
+- Desenvolver projetos de automação para empresas
+- Aprimorar UI/UX com base em sistemas reais 
+- Integração de sistemas únicos 
 - Compartilhar conhecimento técnico e visual no GitHub & LinkedIn
 
 ---
