@@ -1,10 +1,14 @@
-<h1 align="center">Geovane Morais</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8a/e1/04/8ae104a88d8fd8e5c4d1a9cbea4d4c96.gif" alt="Intro GIF" width="600"/>
+</p>
+
+<h1 align="center" style="color:#5C2D91;">Geovane Morais</h1>
 <h3 align="center">💻 Estudante de Engenharia de Software | Dev Back-end | UI/UX</h3>
 <p align="center"><i>Keep learning.</i></p>
 
 ---
 
-## 👨‍🎓 Sobre mim
+## 👨‍🎓 <span style="color:#41CD52;">Sobre mim</span>
 
 Sou estudante de Engenharia de Software (2º período), apaixonado por construir soluções desktop e softwares empresariais.
 
@@ -12,20 +16,20 @@ Atualmente desenvolvendo projetos desktop com **Python + PyQt5**, explorando int
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ <span style="color:#3776AB;">Tecnologias que uso</span>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## 💼 Projetos em Destaque
+## 💼 <span style="color:#E55353;">Projetos em Destaque</span>
 
 ### 🧠 [Noesis Dashboard](https://github.com/fawkesenginner/Noesis)
 > Plataforma acadêmica visual para organização de estudos, com design moderno e ferramentas integradas.  
@@ -41,25 +45,25 @@ Atualmente desenvolvendo projetos desktop com **Python + PyQt5**, explorando int
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 <span style="color:#FFB74D;">Atualmente estudando</span>
 
-- Estrutura de Dados & Banco de Dados  
+- ⚙️ Estrutura de Dados & Banco de Dados  
 - Docker C#  
 - WPF  
 - UI/UX Design com foco em usabilidade de sistemas desktop
 
 ---
 
-## 🎯 Objetivos
+## 🎯 <span style="color:#4FC3F7;">Objetivos</span>
 
-- Desenvolver projetos de automação para empresas
-- Aprimorar UI/UX com base em sistemas reais 
-- Integração de sistemas únicos 
+- Desenvolver projetos de automação para empresas  
+- Aprimorar UI/UX com base em sistemas reais  
+- Integração de sistemas únicos  
 - Compartilhar conhecimento técnico e visual no GitHub & LinkedIn
 
 ---
 
-## 📈 GitHub Insights
+## 📈 <span style="color:#A1887F;">GitHub Insights</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fawkesenginner&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -68,7 +72,7 @@ Atualmente desenvolvendo projetos desktop com **Python + PyQt5**, explorando int
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 <span style="color:#0077B5;">Conecte-se comigo</span>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/geovanemorais37/">
