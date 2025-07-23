@@ -38,9 +38,9 @@ Atualmente desenvolvendo projetos desktop com **Python + PyQt5**, explorando int
 
 ---
 
-### 📦 [BoxGestor](https://github.com/fawkesenginner/BoxGestor)
-> ERP de Estoque com painel futurista e arquitetura modular para controle de produtos, movimentações e relatórios.  
-> 🔧 Tecnologias: Python, PyQt5  
+### 💻 [SecTool](https://github.com/fawkesenginner/sectool)
+> Ferramente de analise de redes de pentest.  
+> Hash MD5
 > 🌐 Foco: design clean, responsividade e usabilidade real
 
 ---
